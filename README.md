@@ -10,3 +10,8 @@ Configurando o ambiente de desenvolvimento
 Instale o Java JDK e configure as variáveis de ambiente.
 Instale o NetBeans IDE para desenvolvimento do projeto.
 Instale o MySQL Workbench e configure a conexão com o banco de dados para gerenciar as informações de vendas e consultoras.
+
+
+<img src="imagens/image1.png" alt="Texto alternativo" />
+
+<img src="imagens/imagen2.png" alt="Texto alternativo" />
