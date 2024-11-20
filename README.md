@@ -1,3 +1,4 @@
+# Gestão e Estoque
 <div style="text-align: center;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrdbkqnLxMZ49bGXZVubjHhiKcR25FOfxoMw&s" alt="Texto alternativo" style="max-width: 100%; height: auto;" />
     <p>Este é um projeto de extensão da faculdade desenvolvido em Java. O objetivo do sistema é fornecer uma ferramenta de gestão para uma líder de vendas da Natura, ajudando-a a organizar e analisar as informações de suas consultoras para otimizar o gerenciamento de vendas e acompanhar as metas de forma mais eficiente.</p>
